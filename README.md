@@ -1,5 +1,5 @@
-## Oiii eu sou Daniel mendes,uma pessoa procurando enprego na area de tecnologia  !
-
+## Oiii eu sou Daniel mendes, uma pessoa procurando emprego na área de tecnologia
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
