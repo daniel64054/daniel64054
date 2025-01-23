@@ -1,64 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 
-<style>
-    body{
-        padding: 0px;
-        margin: 0px;    }
-    .topo{
-        align-items: center;
-        color: aliceblue;
-        background-color: black;
-        border-bottom: 5px solid white;
-        
-    }
-    .fc_personagem{
-        justify-content: space-between;
-        display: flex;
-        background-color: white;
-        color: black;
-    }
-    #info{
-        display: inline-block;
-    }
-    #ft_personagen{
-
-    }
-    .borda{
-    border-bottom: 1px solid black ;
-    }
-  .pericias{
-    display: inline-flex;
-  }
-  .pericias_imagen{
-    display:grid;
-    align-items: flex-start ;
-    padding: 10px;
-  }
-  li .pericias_imagen{
-    border: 5px solid white;
-  }
-  .pericias_texto{
-    align-items: flex-start ;
-    padding: 10px;
-  }
-  #rodape{
-    align-items: center;
-        color: aliceblue;
-        background-color: black;
-        border-bottom: 5px solid white;
-
-  }
-
-  #tx_pericias{
-
-  }
-  #contatos{
-    justify-content: space-around;
-    display: flex;
-    padding: 1px;
-    border-bottom: 5px solid black
-    }
+</head>
+<body>
     
-</style>
+
+
 <div class="topo">  
 <h1> Ficha: Daniel mendes</h1>
 </div>
@@ -86,8 +38,7 @@
         <li><img  alt="dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></li>
         <li><img  alt="dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></li>
     </Ul>
-    </div
-    >
+</div>
 
     </div>
 </div>
@@ -104,3 +55,5 @@
         <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
 </footer>
+</body>
+</html>
